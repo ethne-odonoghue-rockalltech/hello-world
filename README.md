@@ -18,3 +18,4 @@ Test6 text at end
 
 Added text to Branch A. Can I keep working on this file in branch A, and another file in branch B?
 
+Branch-B created after branch A text pushed. Switched to branch B and added this text.
