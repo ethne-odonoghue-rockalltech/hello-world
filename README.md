@@ -16,3 +16,5 @@ Added some text to the test2 branch of README.md, on the same line as the test1 
 
 Test6 text at end
 
+Added text to Branch A. Can I keep working on this file in branch A, and another file in branch B?
+
