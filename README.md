@@ -20,3 +20,5 @@ This text is for the old branch and the new branch. (commit 2)
 Test6 text at end
 
 Here's some text that's for the new branch only. (commit 1)
+
+Steve's text for 17.1 and 17.2.
