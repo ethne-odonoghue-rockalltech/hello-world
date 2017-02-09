@@ -5,6 +5,8 @@ Here is Steve's text for 17.1 and 17.2.
 
 Hello
 
+Some text from Ethné 1.
+
 I've added some text here to illustrate making a change to a file, and then ... WHOOPS!
 
 This text was added to the test1 branch.
