@@ -18,3 +18,9 @@ Added some text to the test2 branch of README.md, on the same line as the test1 
 This text is for the old branch and the new branch. (commit 2)
 
 Test6 text at end
+=======
+Test6 text at end
+
+Here's some text that's for the new branch only. (commit 1)
+
+Steve's text for 17.1 and 17.2.
